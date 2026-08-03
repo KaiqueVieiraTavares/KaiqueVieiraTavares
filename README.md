@@ -1,4 +1,4 @@
-# Olá, me chamo Kaique Vieira Tavares! 👋
+# Olá, me chamo Kaique Vieira Tavares! 
 
 ### Desenvolvedor Backend (Java | Spring Boot)
 
